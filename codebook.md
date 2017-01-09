@@ -9,7 +9,7 @@
 
 ##Measurements
 
-tBodyAccMeanX
+.tBodyAccMeanX
 tBodyAccMeanY
 tBodyAccMeanZ
 tBodyAccStdX
