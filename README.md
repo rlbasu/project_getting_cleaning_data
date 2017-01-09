@@ -12,4 +12,4 @@
 8. Appropriately labels the data set with descriptive variable names.
 9. From the data set in step 8, creates tidy data set with the average of each variable for each activity and each subject.
 
-The end result is shown in the new data set : "tidy.txt"
+The end result is shown in the new data set : "tidydata.txt"
