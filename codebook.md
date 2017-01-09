@@ -7,18 +7,18 @@
 @subject - The ID of the test subject
 @activity - The type of activity performed when the corresponding measurements were taken
 
-##Measurements
+##Measurements should been made on following variables:
 
 * tBodyAccMeanX
 * tBodyAccMeanY
- tBodyAccMeanZ
- tBodyAccStdX
- tBodyAccStdY
- tBodyAccStdZ
-tGravityAccMeanX
-tGravityAccMeanY
-tGravityAccMeanZ
-tGravityAccStdX
+* tBodyAccMeanZ
+* tBodyAccStdX
+* tBodyAccStdY
+* tBodyAccStdZ
+* tGravityAccMeanX
+* tGravityAccMeanY
+* tGravityAccMeanZ
+*tGravityAccStdX
 tGravityAccStdY
 tGravityAccStdZ
 tBodyAccJerkMeanX
