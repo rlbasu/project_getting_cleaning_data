@@ -1,6 +1,6 @@
 #Code Book for the Project
 
-### *This code book summarizes the resulting data for tidy.txt.*
+### *This code book summarizes the resulting data for tidydata.txt.*
 
 ##Identifiers
 
