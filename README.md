@@ -1,4 +1,4 @@
-# project_getting_cleaning_data
+# Project of Getting and Cleaning Data
 
 ###This is the course project for the course,Getting and Cleaning Data, as part of the Data science specialization. 
 ## *The R script, `run_analysis.R`, does the following:*
