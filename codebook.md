@@ -9,8 +9,8 @@
 
 ##Measurements
 
-.tBodyAccMeanX
-tBodyAccMeanY
+* tBodyAccMeanX
+* tBodyAccMeanY
 tBodyAccMeanZ
 tBodyAccStdX
 tBodyAccStdY
