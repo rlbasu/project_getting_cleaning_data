@@ -4,10 +4,10 @@
 
 ##Identifiers
 
-* subject - The ID of the test subject is of class _int_
-* activity - The type of activity performed when the corresponding measurements were taken is of class _chr_
+* subject - The ID of the test subject is of class _**int**_
+* activity - The type of activity performed when the corresponding measurements were taken is of class _**chr**_
 
-##Measurements should been made on following variables of class _num_:
+##Measurements should been made on following variables of class _**num**_:
 
 *	tBodyAccMeanX
 *	tBodyAccMeanY
