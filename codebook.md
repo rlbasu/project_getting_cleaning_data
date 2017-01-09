@@ -11,10 +11,10 @@
 
 * tBodyAccMeanX
 * tBodyAccMeanY
-tBodyAccMeanZ
-tBodyAccStdX
-tBodyAccStdY
-tBodyAccStdZ
+ tBodyAccMeanZ
+ tBodyAccStdX
+ tBodyAccStdY
+ tBodyAccStdZ
 tGravityAccMeanX
 tGravityAccMeanY
 tGravityAccMeanZ
